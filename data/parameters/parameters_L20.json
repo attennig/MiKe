@@ -1,0 +1,13 @@
+{
+  "parameters":
+  {
+    "alpha": 0.03947368,
+    "alpha_P": 0.05542265,
+    "B": 50,
+    "drone_speed": 5,
+    "delta_u": 60,
+    "delta_l": 60,
+    "delta_r": 60,
+    "K": 20
+  }
+}
